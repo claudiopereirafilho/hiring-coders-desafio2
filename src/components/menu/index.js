@@ -11,7 +11,7 @@ export default function Menu(){
             
             <section className="hero is-small has-background-grey-dark">
                 <div className="hero-body">
-                    <p class="title has-text-white">
+                    <p className="title has-text-white">
                     Cadastro de Produtos e Clientes 
                     </p>                                        
                 </div>

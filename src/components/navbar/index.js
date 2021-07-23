@@ -3,7 +3,7 @@ import React from 'react';
 function Navbar(){
     return(
 
-    <nav className="navbar has-background-grey-dark" role="navigation" aria-label="main navigation">
+    <nav className="navbar has-background-grey-dark" aria-label="main navigation">
         <div className="navbar-brand">
             <div className="navbar-item has-text-white"> 
                 <p>Inventory System</p>

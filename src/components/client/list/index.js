@@ -44,7 +44,7 @@ export default function ListClients(props){
 
                 <section className="hero is-small has-background-link">
                     <div className="hero-body">
-                        <p class="title has-text-white">
+                        <p className="title has-text-white">
                         Lista de Clientes
                         </p>                    
                     </div>

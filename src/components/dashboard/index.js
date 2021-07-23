@@ -6,10 +6,6 @@ function Dashboard(){
     const [storageClients, setStorageClients] = useState([]);
     const [storageProducts, setStorageProducts] = useState([]);
 
-    function HandlePanel(param){
-
-    }
-
     window.addEventListener("storage", (e) => {
         
         localStorage.getItem('clientData') ? 
